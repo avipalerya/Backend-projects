@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FeEE6N6liZb1AKHXwqaO5nXZeuekPBzSkWowOEiFMp3yVNhiKIx9hR66vpNBwCpLFPrQZnGwtIj1NRxE6iJ2Xw==",
+  "dgSpecHash": "HUkFjHDeHHblqoFt6YvH67+vtKqzzHu+uCxOk75Cw4wPJuUIZwIp6nULtaUTu//yfb66luDlSY7TJH21tXJjPw==",
   "success": true,
-  "projectFilePath": "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
+  "projectFilePath": "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\107020\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.29\\microsoft.aspnetcore.cryptography.internal.3.1.29.nupkg.sha512",
     "C:\\Users\\107020\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.29\\microsoft.aspnetcore.cryptography.keyderivation.3.1.29.nupkg.sha512",

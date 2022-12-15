@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj": {}
+    "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj": {}
   },
   "projects": {
-    "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj": {
+    "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
+        "projectUniqueName": "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
         "projectName": "DictionaryMVCWebApp",
-        "projectPath": "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
+        "projectPath": "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\DictionaryMVCWebApp.csproj",
         "packagesPath": "C:\\Users\\107020\\.nuget\\packages\\",
-        "outputPath": "D:\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\obj\\",
+        "outputPath": "D:\\Projects\\DictionaryMVCWebApp\\DictionaryMVCWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\107020\\AppData\\Roaming\\NuGet\\NuGet.Config",
